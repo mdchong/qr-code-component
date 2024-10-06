@@ -6,4 +6,7 @@
     --slate-300: #D5E1EF;
     --slate-500: #68778D;
     --slate-900: #1F314F;
+    --body-font: "Outfit", sans-serif;
+    --font-weight-regular: 400;
+    --font-weight-bold: 700;
 }
