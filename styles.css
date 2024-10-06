@@ -6,7 +6,24 @@
     --slate-300: #D5E1EF;
     --slate-500: #68778D;
     --slate-900: #1F314F;
+
+    /* Typography  */
     --body-font: "Outfit", sans-serif;
-    --font-weight-regular: 400;
-    --font-weight-bold: 700;
+
+    /* Outfit - Regular */
+    --weight-regular: 400;
+    --size-regular: 15px;
+    --line-height-regular: 140%;
+    --letter-spacing-regular: 0.2px;
+
+    /* Outfit - Bold */
+    --weight-bold: 700;
+    --size-bold: 22px;
+    --line-height-bold: 120%;
+    --letter-spacing-bold: 0px;
+
+    /* Spacing */
+    --spacing-200: 1rem;
+    --spacing-300: 1.5rem;
+    --spacing-400: 2.5rem;
 }
