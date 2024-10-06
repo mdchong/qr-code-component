@@ -30,7 +30,6 @@
 
 /* Delete This  */
 *, *::before, *::after {
-    background-color: lightpink;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
