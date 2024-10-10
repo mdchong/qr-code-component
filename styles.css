@@ -137,8 +137,3 @@ body {
     padding-left: var(--spacing-200);
     padding-right: var(--spacing-200); 
 }
-
-footer {
-    position: relative;
-    bottom: -20px;
-}
